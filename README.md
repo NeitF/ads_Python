@@ -1,2 +1,2 @@
 # ads_Python
- Exercicio da disciplina de LPOO
+ Exercicio desenvolvidos na disciplina de LPOO
